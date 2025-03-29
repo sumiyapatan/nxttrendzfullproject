@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.summary-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: end;
+}
+.summary {
+  color: #616e7c;
+  font-weight: 400;
+  font-size: 20px;
+}
+.spanel {
+  color: #171f46;
+  font-weight: bold;
+}
+.lengthof {
+  color: #616e7c;
+  font-weight: 400;
+}
+.btnsummary {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: 0px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.divof {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
