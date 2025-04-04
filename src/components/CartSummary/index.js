@@ -10,7 +10,7 @@ const CartSummary = () => (
       let total = 0
 
       cartList.forEach(each => {
-        total += each.price * each.quantit
+        total += each.price * each.quantity
       })
 
       return (
